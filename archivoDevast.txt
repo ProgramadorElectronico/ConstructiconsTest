@@ -1,7 +1,11 @@
 Devastator
-==========
+=========================================
 Es un robot de la combinacion de los
-constructicons que lo forman.
-El lider es Scrapper un cargador frontal.
+constructicons que lo conforman.
+Scrapper es el LIDER un cargador frontal.
 Mixmaster es una mezcladora de concreto.
 Bonecrusher es una bulldozer
+Hook es una grua
+Scavenger 
+Long Haul
+=========================================
