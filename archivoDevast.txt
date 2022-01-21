@@ -1,0 +1,7 @@
+Devastator
+==========
+Es un robot de la combinacion de los
+constructicons que lo forman.
+El lider es Scrapper un cargador frontal.
+Mixmaster es una mezcladora de concreto.
+
