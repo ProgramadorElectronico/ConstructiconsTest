@@ -1,0 +1,6 @@
+Scavenger
+========================================
+Es un constructicon
+Su forma vehiculo es una excavadora
+Es el brazo derecho en Devastator
+========================================
