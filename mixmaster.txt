@@ -1,6 +1,19 @@
 Mixmaster
-================================================
+================================================================
 Es un constructicons
 Es una removedora de concreto en modo vehiculo.
 Es la pierna izquierda en Devastator.
-===============================================
+================================================================
+                                        mmmmmmmmmmm  mmmmmmm
+                                   mmmmmmmmmmmmmmmmmmmmmmmm
+                                 mmmmmmmmmmmmmmmmmmm mmmmm
+                               mmmmmmmmmmmmmmmmmmmmm mmmmmmm
+    mmmmmmmmmmmmmm       mmmmmmmmmmmmmmmmmmmmmmmmmm  mmmmmmm
+   mm       mmmmmm       mmmmm mmmmmmmmmmmmmmmmmmm   mmmmmmm
+  mm        mmmmmm       mmmmm   mmmmmmmmmmmmm       mmmmmmm
+  mm        mmmmmm       mmmmm      mmmmmmmm         mmmmmmm
+  mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+  mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+ mmmmm *** mmmmmmmmmmmmmmmmmmmmmmmmmmm  ***     ***  mmmmmmm
+ mmmm ***** mmmmmmmmmmmmmmmmmmmmmmmmmm *****   ***** mmmmmmm
+       ***                              ***     ***
