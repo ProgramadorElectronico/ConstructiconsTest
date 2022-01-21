@@ -1,6 +1,7 @@
 Scrapper
-=========
+===============================================
 Es el lider de los constructicons
 forma la pierna derecha de Devastator.
-Es un cargador frontal en la forma vehiculo.
+Es un cargador frontal en su forma vehiculo.
+===============================================
 
