@@ -4,5 +4,6 @@ Hook es un personaje ficticion en la serie
 de transformers G1.
 Es un constructicons perteneciente a los Decepticons.
 Su forma es de una grua.
+Forma parte del pectoral y cabeza en Devastator
 ======================================================
 
