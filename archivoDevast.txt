@@ -2,10 +2,13 @@ Devastator
 =========================================
 Es un robot de la combinacion de los
 constructicons que lo conforman.
-Scrapper es el LIDER un cargador frontal.
-Mixmaster es una mezcladora de concreto.
-Bonecrusher es una bulldozer
-Hook es una grua
-Scavenger 
-Long Haul
++Scrapper es el LIDER un cargador frontal.
++Mixmaster es una mezcladora de concreto.
++Bonecrusher es una bulldozer
++Hook es una grua
++Scavenger es una excavadora
++Long Haul es un volquete
+En japon los constructicons se llamaron
+birudoron(buildron).
+Devastator se llamo Debasutaa
 =========================================
